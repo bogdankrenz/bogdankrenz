@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @bogdankrenz
 - 👀 I’m interested in philosophy, self improvement && peace from mind
-- 🌱 I’m currently learning ReactJS, GatsbyJS && Stripe API
+- 🌱 I’m currently learning NextJS and TailwindCSS
 - 💞️ I’m looking to collaborate on fun && unique projects
 - 📫 How to reach me => bkrenz1502@icloud.com
 
